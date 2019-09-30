@@ -1,0 +1,27 @@
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaTesting.dll
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaTesting.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.csprojResolveAssemblyReference.cache
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.dll
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.pdb
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaTesting.dll
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaTesting.pdb
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.exe
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.pdb
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.exe.config
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.csprojResolveAssemblyReference.cache
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.csproj.CoreCompileInputs.cache
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.dll
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.pdb
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaTesting.dll
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaTesting.pdb
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.exe
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.pdb
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.dll
+C:\Users\Sara\Downloads\OperaHouse-Assignment4\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.pdb

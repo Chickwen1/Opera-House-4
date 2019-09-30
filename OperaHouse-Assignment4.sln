@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperaHouse-Assignment4", "OperaHouse-Assignment4\OperaHouse-Assignment4.csproj", "{B3E8B5CF-8389-403B-84FB-52F951A865BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperaTesting", "OperaTesting\OperaTesting.csproj", "{CE834978-9FA7-4266-A274-22AD5E54E36F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://uwois.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OperaHouse-Assignment4\\OperaHouse-Assignment4.csproj
+		SccProjectName1 = OperaHouse-Assignment4
+		SccLocalPath1 = OperaHouse-Assignment4
+		SccProjectUniqueName2 = OperaTesting\\OperaTesting.csproj
+		SccProjectName2 = OperaTesting
+		SccLocalPath2 = OperaTesting
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E8B5CF-8389-403B-84FB-52F951A865BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E8B5CF-8389-403B-84FB-52F951A865BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E8B5CF-8389-403B-84FB-52F951A865BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E8B5CF-8389-403B-84FB-52F951A865BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE834978-9FA7-4266-A274-22AD5E54E36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE834978-9FA7-4266-A274-22AD5E54E36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE834978-9FA7-4266-A274-22AD5E54E36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE834978-9FA7-4266-A274-22AD5E54E36F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
